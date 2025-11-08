@@ -2,7 +2,7 @@
 
 # shiftwaltz
 
-**shiftwaltz** is a 36-key keymap for ethnic typers and designers, who cannot use home-row mods because of inevitable issues.
+**shiftwaltz** is a 36-key keymap for ethnic typers and graphic designers, who cannot use home-row mods because of inevitable issues.
 
 This may have:
 
