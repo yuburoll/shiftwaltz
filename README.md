@@ -14,32 +14,32 @@ This may have:
 
 
 
-![L0](images/shiftwaltz-layer0.png)
-
 ## Default Layer
+
+![L0](images/shiftwaltz-layer0.png)
 
 This provides normal qwerty, but without home rows. Other modifiers goes to right keys(',' , '.' , '/').
 
 
 
-![layer1](images/shiftwaltz-layer1.png)
-
 ## Layer 1-Numbers and Symbols
+
+![layer1](images/shiftwaltz-layer1.png)
 
 To write symbols, I intended using thumb shift for it. It is also feels good that replacing Tab key to Left Shift.
 
 
 
-![layer2](images/shiftwaltz-layer2.png)
-
 ## Layer 2-Navigators
+
+![layer2](images/shiftwaltz-layer2.png)
 
 These may resembles to traditional arrow key positions, rather than VIM navigators. Targeting to one hand usage for design editing, I added Ctrl+Y(redo) shortcuts and positioned arrow key to left hand.
 
 
 
-![layer3](images/shiftwaltz-layer3.png)
-
 ## Layer 3-Functions
+
+![layer3](images/shiftwaltz-layer3.png)
 
 Also with some qmk & zmk provided keys for programmable keyboards. I positioned bluetooth keys for example, but you may use RGB or other keys.
