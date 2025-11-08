@@ -20,13 +20,15 @@ This may have:
 
 Front legends are triggered by long press, mainly on thumb clusters.
 
-This provides normal qwerty, but without home rows. Other modifiers goes to right keys.(',' , '.' , '/')
+This provides normal qwerty, but without home rows. Other modifiers goes to right keys.(' , ' , ' . ' , ' / ')
 
 ## Layer 1-Numbers and Symbols
 
 ![layer1](images/shiftwaltz-layer1.png)
 
-To write symbols, I intended using thumb shift for it. It is also feels good that replacing Tab key to Left Shift.
+To write symbols, I intended using thumb shift for it. (It is also feels good that replacing Tab key of the layer to Left Shift.)
+
+Especially, underbar(' _ ') and double quotes(' " ') are in the layer, because of the frequent use of those symbols.
 
 ## Layer 2-Navigators
 
