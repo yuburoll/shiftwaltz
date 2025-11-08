@@ -18,9 +18,11 @@ This may have:
 
 ![L0](images/shiftwaltz-layer0.png)
 
-Front legends are triggered by long press, mainly on thumb clusters.
+Front legends are triggered by long press(holding), mainly on thumb clusters.
 
 This provides normal qwerty, but without home rows. Other modifiers goes to right keys.(' , ' , ' . ' , ' / ')
+
+You may change position of thumb cluster hold keys to your best position. (eg. Layer1/2 <-> Shift)
 
 ## Layer 1-Numbers and Symbols
 
