@@ -12,15 +12,15 @@ This may have:
 
 - Left Ctrl hold key on default layer for shortcuts of design tool
 
-
+- HOLD_ON_OTHER_KEY_PRESS or such are enabled
 
 ## Default Layer
 
 ![L0](images/shiftwaltz-layer0.png)
 
-This provides normal qwerty, but without home rows. Other modifiers goes to right keys(',' , '.' , '/').
+Front legends are triggered by long press, mainly on thumb clusters.
 
-
+This provides normal qwerty, but without home rows. Other modifiers goes to right keys.(',' , '.' , '/')
 
 ## Layer 1-Numbers and Symbols
 
@@ -28,15 +28,11 @@ This provides normal qwerty, but without home rows. Other modifiers goes to righ
 
 To write symbols, I intended using thumb shift for it. It is also feels good that replacing Tab key to Left Shift.
 
-
-
 ## Layer 2-Navigators
 
 ![layer2](images/shiftwaltz-layer2.png)
 
 These may resembles to traditional arrow key positions, rather than VIM navigators. Targeting to one hand usage for design editing, I added Ctrl+Y(redo) shortcuts and positioned arrow key to left hand.
-
-
 
 ## Layer 3-Functions
 
