@@ -1,4 +1,4 @@
-![shiftwaltz](file://C:\projects\git\shiftwaltz\images\shiftwaltz.png?msec=1762612601114)
+![shiftwaltz](images\shiftwaltz.png)
 
 # shiftwaltz 쉬프트왈츠
 
@@ -11,7 +11,7 @@
 
 ## 기본 레이어
 
-![L0](file://C:\projects\git\shiftwaltz\images\shiftwaltz-layer0.png?msec=1762612601115)
+![L0](images\shiftwaltz-layer0.png)
 
 아래에 붙어있는 음각은 길게 누르면 그 키로 바뀌는 것들입니다. 홀드 액션이라고도 합니다. 썸 클러스터라고도 하는 엄지 키 부분에 대부분 모여있습니다.
 
@@ -23,7 +23,7 @@
 
 ## 1번 레이어-숫자와 특수문자
 
-![layer1](file://C:\projects\git\shiftwaltz\images\shiftwaltz-layer1.png?msec=1762612601115)
+![layer1](images\shiftwaltz-layer1.png)
 
 Shift를 누르기 편하게 만들었으니, 특수문자를 누를 땐 왼쪽 Shift와 함께 쓰도록 설계했습니다. (이 레이어의 Tab키를 왼Shift로 바꾸면 양쪽이 대칭이라 외우기도 쉽고 꽤 편하지만, 기본은 Tab으로 구성했습니다.)
 
@@ -31,12 +31,12 @@ Shift를 누르기 편하게 만들었으니, 특수문자를 누를 땐 왼쪽 
 
 ## 2번 레이어-화살표키와 마우스
 
-![layer2](file://C:\projects\git\shiftwaltz\images\shiftwaltz-layer2.png?msec=1762612601116)
+![layer2](images\shiftwaltz-layer2.png)
 
 VIM 내비게이터 기준인 대부분의 키맵과는 달리 화살표 형상으로 구성했습니다. 그래픽 디자인 용으로 자주 쓰므로 왼쪽 하단 열에 숏컷을 넣어놨습니다. 왼손이 닿지 않는 숏컷(다시하기 같은 것들)을 여기에 넣어두면 좋습니다.
 
 ## 3번 레이어-펑션키
 
-![layer3](file://C:\projects\git\shiftwaltz\images\shiftwaltz-layer3.png?msec=1762612601115)
+![layer3](images\shiftwaltz-layer3.png)
 
 F열 키와 qmk&zmk에서 제공하는 키보드용 키들을 여기에 넣었습니다. 블루투스 키나 RGB 키를 여기에 할당하면 좋습니다.
