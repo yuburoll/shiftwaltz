@@ -2,6 +2,8 @@
 
 # shiftwaltz
 
+[한국어 설명은 여기서 보실 수 있어요](README_korean.md)
+
 **shiftwaltz** is a 36-key keymap for ethnic typers and graphic designers, who cannot use home-row mods because of inevitable issues.
 
 This may have:
