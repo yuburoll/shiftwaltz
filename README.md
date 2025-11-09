@@ -14,7 +14,7 @@ This may have:
 
 - Left Ctrl hold key on default layer for shortcuts of design tool
 
-- HOLD_ON_OTHER_KEY_PRESS or such are enabled
+- HOLD_ON_OTHER_KEY_PRESS and CHORDIAL_HOLD or such are enabled (I recommend this only for shift key)
 
 ## Default Layer
 
